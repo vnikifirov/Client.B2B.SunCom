@@ -1,0 +1,24 @@
+﻿@model Test1708151058.Models.Product
+
+@{
+    ViewBag.Title = "Create A Product";
+}
+
+<h2>Create A Product</h2>
+
+@using (Html.BeginForm())
+{
+
+    <div>
+        @Html.LabelFor(m => m.Name)
+        
+        @Html.TextBoxFor(m => m.Name)
+    </div>
+    <br/>
+
+    <div>
+        @Html.LabelFor(m => m.Price)
+        @Html.TextBoxFor(m => m.Price)
+    </div>
+    <br/>    
+}

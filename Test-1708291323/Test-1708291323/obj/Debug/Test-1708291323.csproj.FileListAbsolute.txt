@@ -1,0 +1,7 @@
+C:\Users\nikif\Documents\Visual Studio 2017\Projects\Test-1708291323\Test-1708291323\bin\Debug\Test-1708291323.exe.config
+C:\Users\nikif\Documents\Visual Studio 2017\Projects\Test-1708291323\Test-1708291323\bin\Debug\Test-1708291323.exe
+C:\Users\nikif\Documents\Visual Studio 2017\Projects\Test-1708291323\Test-1708291323\bin\Debug\Test-1708291323.pdb
+C:\Users\nikif\Documents\Visual Studio 2017\Projects\Test-1708291323\Test-1708291323\obj\Debug\Test-1708291323.csprojResolveAssemblyReference.cache
+C:\Users\nikif\Documents\Visual Studio 2017\Projects\Test-1708291323\Test-1708291323\obj\Debug\Test-1708291323.csproj.CoreCompileInputs.cache
+C:\Users\nikif\Documents\Visual Studio 2017\Projects\Test-1708291323\Test-1708291323\obj\Debug\Test-1708291323.exe
+C:\Users\nikif\Documents\Visual Studio 2017\Projects\Test-1708291323\Test-1708291323\obj\Debug\Test-1708291323.pdb

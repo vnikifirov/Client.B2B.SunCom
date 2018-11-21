@@ -1,0 +1,6 @@
+c:\users\nikif\documents\visual studio 2017\Projects\Test-170807\Test-170807\obj\Debug\Test-170807.csprojResolveAssemblyReference.cache
+c:\users\nikif\documents\visual studio 2017\Projects\Test-170807\Test-170807\bin\Debug\Test-170807.exe.config
+c:\users\nikif\documents\visual studio 2017\Projects\Test-170807\Test-170807\bin\Debug\Test-170807.exe
+c:\users\nikif\documents\visual studio 2017\Projects\Test-170807\Test-170807\bin\Debug\Test-170807.pdb
+c:\users\nikif\documents\visual studio 2017\Projects\Test-170807\Test-170807\obj\Debug\Test-170807.exe
+c:\users\nikif\documents\visual studio 2017\Projects\Test-170807\Test-170807\obj\Debug\Test-170807.pdb

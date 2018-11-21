@@ -1,0 +1,10 @@
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\bin\Debug\DataSetTest.exe.config
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\bin\Debug\DataSetTest.exe
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\bin\Debug\DataSetTest.pdb
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\bin\Debug\Microsoft.ReportViewer.Common.dll
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\obj\Debug\DataSetTest.csprojResolveAssemblyReference.cache
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\obj\Debug\DataSetTest.exe
+c:\users\nikif\documents\visual studio 2017\Projects\DataSetTest\DataSetTest\obj\Debug\DataSetTest.pdb

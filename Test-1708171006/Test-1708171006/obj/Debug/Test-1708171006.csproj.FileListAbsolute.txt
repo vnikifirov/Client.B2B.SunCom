@@ -1,0 +1,9 @@
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\bin\Debug\Test-1708171006.exe.config
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\bin\Debug\Test-1708171006.exe
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\bin\Debug\Test-1708171006.pdb
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\obj\Debug\Test-1708171006.csprojResolveAssemblyReference.cache
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\obj\Debug\Test-1708171006.csproj.CoreCompileInputs.cache
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\obj\Debug\Test-1708171006.exe
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\obj\Debug\Test-1708171006.pdb
+C:\Users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikif\documents\visual studio 2017\Projects\Test-1708171006\Test-1708171006\bin\Debug\Newtonsoft.Json.xml

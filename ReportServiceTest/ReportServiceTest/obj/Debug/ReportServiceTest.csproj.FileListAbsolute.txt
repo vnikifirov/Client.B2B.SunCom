@@ -1,0 +1,9 @@
+c:\users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\bin\Debug\ReportServiceTest.exe.config
+c:\users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\bin\Debug\ReportServiceTest.exe
+c:\users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\bin\Debug\ReportServiceTest.pdb
+c:\users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\obj\Debug\ReportServiceTest.exe
+c:\users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\obj\Debug\ReportServiceTest.pdb
+C:\Users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\nikif\documents\visual studio 2017\Projects\ReportServiceTest\ReportServiceTest\bin\Debug\Microsoft.SqlServer.Types.dll

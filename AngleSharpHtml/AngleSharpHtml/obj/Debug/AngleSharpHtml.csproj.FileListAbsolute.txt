@@ -1,0 +1,8 @@
+c:\users\nikif\documents\visual studio 2017\Projects\AngleSharpHtml\AngleSharpHtml\bin\Debug\AngleSharpHtml.exe.config
+c:\users\nikif\documents\visual studio 2017\Projects\AngleSharpHtml\AngleSharpHtml\bin\Debug\AngleSharpHtml.exe
+c:\users\nikif\documents\visual studio 2017\Projects\AngleSharpHtml\AngleSharpHtml\bin\Debug\AngleSharpHtml.pdb
+c:\users\nikif\documents\visual studio 2017\Projects\AngleSharpHtml\AngleSharpHtml\bin\Debug\AngleSharp.dll
+c:\users\nikif\documents\visual studio 2017\Projects\AngleSharpHtml\AngleSharpHtml\bin\Debug\AngleSharp.xml
+c:\users\nikif\documents\visual studio 2017\Projects\AngleSharpHtml\AngleSharpHtml\obj\Debug\AngleSharpHtml.csprojResolveAssemblyReference.cache
+c:\users\nikif\documents\visual studio 2017\Projects\AngleSharpHtml\AngleSharpHtml\obj\Debug\AngleSharpHtml.exe
+c:\users\nikif\documents\visual studio 2017\Projects\AngleSharpHtml\AngleSharpHtml\obj\Debug\AngleSharpHtml.pdb

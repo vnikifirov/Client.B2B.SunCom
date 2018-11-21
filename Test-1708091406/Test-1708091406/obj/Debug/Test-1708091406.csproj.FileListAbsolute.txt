@@ -1,0 +1,10 @@
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\bin\Debug\Test-1708091406.exe.config
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\bin\Debug\Test-1708091406.exe
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\bin\Debug\Test-1708091406.pdb
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\bin\Debug\EntityFramework.dll
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\bin\Debug\EntityFramework.xml
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\obj\Debug\Test-1708091406.csprojResolveAssemblyReference.cache
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\obj\Debug\Test-1708091406.exe
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708091406\Test-1708091406\obj\Debug\Test-1708091406.pdb

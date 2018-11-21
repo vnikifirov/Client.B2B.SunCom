@@ -1,0 +1,11 @@
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\bin\Debug\Test-1708150901.exe.config
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\bin\Debug\Test-1708150901.exe
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\bin\Debug\Test-1708150901.pdb
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\bin\Debug\EntityFramework.dll
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\bin\Debug\EntityFramework.xml
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\obj\Debug\Test-1708150901.csproj.CoreCompileInputs.cache
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\obj\Debug\Test-1708150901.exe
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\obj\Debug\Test-1708150901.pdb
+c:\users\nikif\documents\visual studio 2017\Projects\Test-1708150901\Test-1708150901\obj\Debug\Test-1708150901.csprojResolveAssemblyReference.cache
